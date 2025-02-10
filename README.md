@@ -15,6 +15,9 @@ If you are not familiar with the different technologies used in this project, pl
 - [Tailwind CSS](https://tailwindcss.com)
 - [tRPC](https://trpc.io)
 
+![flowchart](https://github.com/user-attachments/assets/11d51a54-2ce5-4b6f-93ca-d9f43e348f4e)
+
+
 ## Learn More
 
 To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
